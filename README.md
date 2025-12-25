@@ -1,4 +1,4 @@
-#Web3D Legacy Archive
+Web3D Legacy Archive
 Descripción
 
 Este repositorio está dedicado a la preservación, documentación y análisis técnico de tecnologías web y juegos en línea basados en runtimes hoy considerados legacy o descontinuados, como Adobe Director / Shockwave (DCR), Adobe Flash (SWF) y motores 3D asociados como Flare3D.
